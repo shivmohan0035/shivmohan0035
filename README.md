@@ -46,7 +46,7 @@ I'm a passionate software engineer focused on problem-solving and algorithm thin
 
 ## 🏆 Achievements
 
-- **JEE Mains 2023** - Qualified with All India Rank 1,00,000+
+- **JEE Mains 2023** - Qualified with All India Rank 1,00,000.
 
 ---
 
