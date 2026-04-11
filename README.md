@@ -14,7 +14,7 @@ I'm a passionate software engineer focused on problem-solving and algorithm thin
 
 - **B.Tech in CSE-AIML** (AKTU)  
   ABES Engineering College | Oct 2023 – July 2027  
-  **CGPA: 8.99**
+  **CGPA: 8.83**
 
 - **Class 12th** (UP Board)  
   Mahatama Gandhi Inter College | 2021 - 2022  
@@ -29,7 +29,7 @@ I'm a passionate software engineer focused on problem-solving and algorithm thin
 ## 💻 Technical Skills
 
 - **Programming Languages:** C++, C, Java, Python (Basic)
-- **Web Development:** HTML, JavaScript
+- **Web Development:** HTML, CSS, JavaScript,  
 - **Core Competencies:** Data Structures, Algorithms, Problem-Solving
 
 ---
