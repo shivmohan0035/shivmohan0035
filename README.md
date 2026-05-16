@@ -1,58 +1,157 @@
-<h1 align="left">👋 Hi, I'm <a href="https://jigarsable.vercel.app" target="_blank"> Jigar Sable </a></h1>
-<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shivmohan Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: #fff;
+            padding: 30px;
+            max-width: 900px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 5px;
+        }
+        
+        .contact {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+        .section {
+            margin-top: 10px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+        }
+        .italic {
+            font-style: italic;
+        }
+        ul {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
 
-- 👨‍💻 Full-Stack Developer based in Pune, India.
-- 📫 How to reach me: [jigarsable21@gmail.com](jigarsable21@gmail.com)
-- 📱 Crafted the [SPPU Prep](https://sppuprep.vercel.app) App, loved by **10000+** savvy learners on the [Play Store](https://play.google.com/store/apps/details?id=com.devcodes.sppuprep)
-- ⭐ Star-studded projects like [Flipkart](https://github.com/jigar-sable/flipkart-mern) and [Instagram](https://github.com/jigar-sable/instagram-mern), shining bright with **800+ stars**
-- 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
+<div class="container">
+    <h1>SHIVMOHAN CHAURASIA</h1>
+    <p style="text-align: center;">Ghaziabad, Uttar Pradesh</p>
+    <div class="contact">
+        📞 +91 8400782033 | ✉ shivmohan2033@gmail.com | 🌐 https://github.com/shivmohan0035 | 💼 https://leetcode.com/u/shivmohan0035/
+    </div>
 
-<h3 align="left">📲 Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/jigarsable.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://peerlist.io/jigar"><img alt="Telegram" src="https://github-readme-badge.peerlist.io/api/jigar" /></a>
+    <h2>Education</h2>
+    <div class="section">
+        <p>
+        <div class="row">
+            <strong>B.Tech in CSE-AIML (AKTU)</strong>
+            <strong>2023 – 2027</strong>
+        </div>
+        
+        <div class="row">
+            <span>ABES Engineering College, Ghaziabad, Uttar Pradesh</span>
+            <strong>CGPA: 8.83</strong>
+        </div>
+        </p>
+
+        <div class="row">
+            <strong>Class 12th (UP Board)</strong>
+            <strong>2021 – 2022</strong>
+        </div>
+    <div class="row">
+        <span>Mahatma Gandhi Inter College, Ghorakhpur, Uttar Pradesh</span>
+        <strong>Percentage: 81.8</strong>
+    </div>
+<p>
+        <div class="row">
+            <strong>Class 10th (UP Board)</strong>
+            <strong>2019 – 2020</strong>
+        </div>
+        <div class="row">
+        <span>Saraswati Vidya Mandir Inter College, Ghorakhpur, Uttar Pradesh</span>
+        <strong>Percentage: 86</strong>
+        </div>
+        </p>
+    </div>
+
+    <h2>Technical Skills</h2>
+    <div class="section">
+        <p><strong>Languages:</strong> C language, C++, JavaScript, TypeScript, Python(basic)</p>
+        <p><strong>Web:</strong> CSS3,  HTML5, React.js</p>
+        <p><strong>Databases:</strong> MySQL</p>
+        <p><strong>AI/ML:</strong> NumPy, Pandas, Matplotlib, Scikit-learn, NLTK</p>
+        <p><strong>Tools:</strong> Git, VS Code</p>
+        <p><strong>Concepts:</strong> Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks</p>
+    </div>
+
+    
+
+    <h2>Projects</h2>
+    <div class="section">
+        <div class="row">
+            <strong>Python Telegram Chatbot  </strong>
+            <strong>September 2025 </strong>
+        </div>
+        
+        <ul>
+            <li>Developed a scalable chatbot using Python and Telegram Bot API for automated communication</li>
+            <li>Implemented command handling, API integrations, and optimized response logic to enhance user experience and system efficiency.</li>
+            
+        </ul>
+        
+         <div class="row">
+            <strong>Movie Recommendation System  </strong>
+            <strong>May 2026 </strong>
+        </div>
+        <ul>
+            <li>Built a Movie Recommendation System using content-based filtering and cosine similarity to provide personalized suggestions.</li>
+            <li>Applied NLP techniques (CountVectorizer) for feature extraction and similarity computation.</li>
+            <li>Deployed using Streamlit for interactive user experience.</li>
+            <li>Improved recommendation accuracy through optimized similarity computation</li> 
+        </ul>
+    </div>
+
+    <h2>Certifications</h2>
+    <div class="section">
+        <div class="row">
+            <strong>Mission Upskill India Hackathon</strong>
+            <strong>September 2025</strong>
+        </div>
+        <ul><li>Participated in the Mission Upskill India Hackathon organized by HCL GUVI</li></ul>
+        <div class="row">
+            <strong>500 difficulty rating</strong>
+            <strong>December 2024</strong>
+        </div>
+        <ul><li>Certificate id: f14ad2d</li>
+            <li>Username: shivmohan_0035</li>
+            <li>Platform: Codechef</li>
+        </ul>
+    </div>
+
+    <h2>Achievements </h2>
+    <div class="section">
+        <ul>
+            <li>Secured 9.73 SGPA (Highest in semester)</li>
+           
+            
+        </ul>
+    </div>
 </div>
 
-<h3 align="left">🚀 Tech Stack:</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<!-- <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>  -->
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<br>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-</div>
-
-<!-- <h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</div> -->
-
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div><br/>
-
-
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
+</body>
+</html>
