@@ -1,4 +1,3 @@
-# Hey there! 👋 Welcome to My GitHub
 
 I'm **Shivmohan Chaurasia**, a passionate software engineer and problem-solving enthusiast based in Ghaziabad, Uttar Pradesh.
 
