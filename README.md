@@ -52,6 +52,7 @@ I’m a passionate software engineer with a strong interest in problem-solving a
 
 ### Movie Recommendation System 
 Project link : https://smart-movies-recommender.streamlit.app/
+
 **May 2026**
 - Built a Movie Recommendation System using content-based filtering and cosine similarity to provide personalized suggestions
 - Applied NLP techniques (CountVectorizer) for feature extraction and similarity computation
